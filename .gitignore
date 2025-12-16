@@ -1,0 +1,14 @@
+# Binary output
+say
+
+# Build artifacts
+*.o
+*.a
+*.vpk
+package/
+
+# Editor files
+.vscode/
+*.swp
+*.swo
+*~
