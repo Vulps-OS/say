@@ -1,0 +1,7 @@
+{
+    "name": "say",
+    "version": "0.1.0",
+    "description": "The say command will repeat whatever the user inserts as a paramater",
+    "dependencies": [],
+    "binary": "say"
+}
